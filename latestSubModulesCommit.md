@@ -1,1 +1,1 @@
-Added another line to latestSubModulesCommit.md
+Get PR merge commit message
