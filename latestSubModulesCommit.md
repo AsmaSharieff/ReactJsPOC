@@ -1,1 +1,1 @@
-“Added git commit ”
+“Added 1 git commit ”
