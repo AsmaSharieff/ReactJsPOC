@@ -1,1 +1,1 @@
-“Added git commit testing sh script ”
+“Added git commit ”
