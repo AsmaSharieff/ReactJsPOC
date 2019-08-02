@@ -1,1 +1,1 @@
-Get PR merge commit message
+“Added git commit ”
