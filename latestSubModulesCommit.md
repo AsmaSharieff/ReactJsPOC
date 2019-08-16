@@ -1,1 +1,1 @@
-“Merge pull request  from ”
+“Merge pull request 10 from ”
